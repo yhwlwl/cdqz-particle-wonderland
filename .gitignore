@@ -1,0 +1,10 @@
+# 原始 4K 演示视频（过大，仅保留本地；README 使用 docs/demo.mp4 压缩版）
+演示视频.mp4
+demo_src.mp4
+
+# 根目录的原始设计文档（docs/ 下已有仓库内副本）
+作品设计文档.docx
+
+# 临时目录
+_tools/
+_docx_media/
