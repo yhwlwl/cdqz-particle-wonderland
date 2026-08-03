@@ -10,7 +10,7 @@
 
 ## 演示视频
 
-<video src="docs/demo.mp4" poster="docs/demo-poster.jpg" controls preload="metadata" style="max-width:100%;border-radius:8px;"></video>
+<video src="docs/demo.mp4" poster="docs/demo-poster.jpg" controls></video>
 
 > 仓库内为 720p 压缩版演示视频（约 51 MB），完整 4K 原片见本地文件 `演示视频.mp4`。
 
@@ -150,15 +150,6 @@
 
 ![算法流程图](docs/images/doc-algorithm-flow.png)
 
-<details>
-<summary><b>与 AI 对话的截图</b>（点击展开）</summary>
-
-![AI 对话截图 1](docs/images/doc-ai-chat-1.png)
-
-![AI 对话截图 2](docs/images/doc-ai-chat-2.png)
-
-</details>
-
 ---
 
 ## 校园素材说明
@@ -171,16 +162,6 @@
 | `picture5.png` | 拼图正面（校园标志性建筑照片） |
 | `picture3.png` | 拼图侧面（校园标志性建筑照片） |
 | `picture1/2/4/6/7/11` | 校园照片素材（亭子、墨池等） |
-
----
-
-## 团队与分工
-
-本作品由成都七中 Skn 队三名成员协作完成，分工如下：
-
-- 核心算法实现、3D 粒子物理引擎开发、程序代码编写与调试
-- 美术设计、图像资源优化、粒子视觉效果调校、界面视觉风格统一
-- 作品创意构思、需求分析、功能逻辑规划与测试验证
 
 ---
 
