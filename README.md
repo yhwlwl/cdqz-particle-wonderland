@@ -10,9 +10,9 @@
 
 ## 演示视频
 
-<video src="docs/demo.mp4" poster="docs/demo-poster.jpg" controls></video>
+![演示视频预览（拼图 → 银杏树 → 校徽）](docs/demo-preview.gif)
 
-> 仓库内为 720p 压缩版演示视频（约 51 MB），完整 4K 原片见本地文件 `演示视频.mp4`。
+> 以上为三阶段精华 GIF 预览；完整演示视频（720p，约 45 MB，含声音）见 [docs/demo.mp4](docs/demo.mp4)，4K 原片仅保留在本地。
 
 ---
 
@@ -103,7 +103,7 @@
 ├── sketch_260101a.zip           # 打包好的可直接运行草图
 ├── docs/
 │   ├── demo.mp4                 # 演示视频（720p 压缩版）
-│   ├── demo-poster.jpg
+│   ├── demo-preview.gif          # 三阶段精华 GIF 预览（README 内嵌）
 │   └── images/                  # 设计文档中的截图与流程图
 └── 演示视频.mp4                  # 4K 原片（仅本地，未上传）
 ```
